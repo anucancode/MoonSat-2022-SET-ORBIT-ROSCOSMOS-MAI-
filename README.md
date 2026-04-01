@@ -1,4 +1,4 @@
-# MoonSat 2022 (SET-ORBIT, ROSCOSMOS, MAI)
+# MoonSat 2022 (SET-ORBIT, ROSCOSMOS, JSC «TsNIIMash», MAI)
 
 **MoonSat 2022** was a student team led project at the **Moscow Aviation Institute (National Research University)** in collaboration with **ROSCOSMOS**, **JSC «TsNIIMash»**,
  and **SET-ORBIT LLC** in Moscow, Russia from 2021-2023. 
