@@ -11,5 +11,5 @@ The files in this repository are from the Astrodynamics and Propulsion Systems G
 
 <img width="748" height="844" alt="Image" src="https://github.com/user-attachments/assets/0c3b8a57-72c2-4f61-bf07-aae7a9a32583" />
 
-**GMAT - Preliminary Ballistic Lunar Trajectory (BLT) Visualization:**
+**GMAT - Ballistic Lunar Trajectory (BLT) Preliminary Visualization:**
 <img width="1819" height="895" alt="Image" src="https://github.com/user-attachments/assets/ebf37b08-48cd-4e6e-990d-6493df013a7a" />
